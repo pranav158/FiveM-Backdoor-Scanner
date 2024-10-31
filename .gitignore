@@ -2,6 +2,7 @@
 *.d
 /.vs
 /x64
+/FiveM-Backdoor-Scanner/x64
 
 # Compiled Object files
 *.slo
