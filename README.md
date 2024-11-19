@@ -84,8 +84,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions, reach out to the creator:
 
-- **Mystic**: [Join Discord](https://discord.gg/hd5pNVmZTu)
-
----
-
-Made by **Mystic**
+- **Mystic Development**: [Join Discord](https://discord.gg/hd5pNVmZTu)
